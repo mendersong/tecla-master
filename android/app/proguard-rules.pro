@@ -1,0 +1,2 @@
+-keep class com.tecladomaster.app.data.** { *; }
+-dontwarn org.xmlpull.v1.XmlPullParser
